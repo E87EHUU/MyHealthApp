@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96512036387",
+    "firebase_url": "https://myhealthapp-54798-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myhealthapp-54798",
+    "storage_bucket": "myhealthapp-54798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96512036387:android:35a06271439c2e0775eb96",
+        "android_client_info": {
+          "package_name": "com.example.myhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobeewhEHqqT1-NK1uHExEtz38k419d98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
